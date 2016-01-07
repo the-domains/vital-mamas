@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Vital Mamas]]></title>
         <description><![CDATA[Vital Mamas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vital-mamas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 22:07:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 22:15:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vital-mamas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad7f0169-a242-492f-9e79-f353cff9a8d5.jpg">]]></description>
-            <link>undefined58e41554-3c02-4172-a8b6-c0d36c4aff4b/index.html</link>
+            <link>https://thegrid.ai/vital-mamas/58e41554-3c02-4172-a8b6-c0d36c4aff4b/index.html</link>
             <guid isPermaLink="false">58e41554-3c02-4172-a8b6-c0d36c4aff4b</guid>
-            <pubDate>Thu, 07 Jan 2016 22:07:12 GMT</pubDate>
+            <pubDate>Thu, 07 Jan 2016 22:15:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
